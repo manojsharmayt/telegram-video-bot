@@ -1,0 +1,2 @@
+BOT_TOKEN=your_bot_token_here
+RAPIDAPI_KEY=your_rapidapi_key_here
